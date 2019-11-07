@@ -12,6 +12,7 @@ namespace SolidPrinciplesSample
         {
             int i = 4;
             Console.WriteLine(i);
+            Console.ReadLine();
         }
     }
 }
